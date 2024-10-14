@@ -15,7 +15,7 @@ When Renovate runs on your repo, it looks for references to dependencies (both p
 
 ## Features
 
-- Delivers update PRs directly to your repo
+- Delivers update PRs directly to your repo1
   - Relevant package files are discovered automatically
   - Pull Requests automatically generated in your repo
 - Provides useful information to help you decide which updates to accept (age, adoption, pass rates, merge confidence)
